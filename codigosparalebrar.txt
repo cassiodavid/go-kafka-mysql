@@ -1,0 +1,9 @@
+mysql -uroot -p dbname
+
+
+cria a database com o nome exemplodb
+cria o topico com o nome product
+
+envia um producer pro topic criado dentro do kafka
+
+o app vai ler e salvar dentro do db mysql
